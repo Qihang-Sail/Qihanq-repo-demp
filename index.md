@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Qihang demo repo for github practice
 
 You can use the [editor on GitHub](https://github.com/Qihang-Sail/Qihanq-repo-demp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
